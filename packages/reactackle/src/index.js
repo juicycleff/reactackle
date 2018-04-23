@@ -1,5 +1,5 @@
 export * from 'reactackle-app';
-export * from 'reactackle-autoposition';
+// export * from 'reactackle-autoposition';
 export * from 'reactackle-button';
 export * from 'reactackle-card';
 export * from 'reactackle-checkbox';
@@ -9,9 +9,9 @@ export * from 'reactackle-form';
 export * from 'reactackle-grid';
 export * from 'reactackle-header';
 export * from 'reactackle-icons';
-export * from 'reactackle-input-autocomplete';
+// export * from 'reactackle-input-autocomplete';
 export * from 'reactackle-radio-group';
-export * from 'reactackle-selectbox';
+// export * from 'reactackle-selectbox';
 export * from 'reactackle-sidebar';
 export * from 'reactackle-tabs';
 export * from 'reactackle-text';
